@@ -7,40 +7,39 @@ HARD MODE Don't start in Europe
 
 Existing in 1444
 
-Aachen
-Albania
-Anhalt
-Brandenburg
-East Frisia
-Clanricarde
-Theodoro
-Frankfurt
-Gazikumukh
-Garhwal
-Saxe-Luxemburg
-Mantua
-Mazovia
-Memmingen
-Milan
-Miami
-Mysore
-Jharkhand
-Nuremberg
-Ojibwe
-Odoyev
-Poland
-Nanbu
-Butua
-Serbia
-Silesia
-Teutonic Order
+Aachen 
+Albania 
+Anhalt 
+Brandenburg 
+East Frisia 
+Clanricarde 
+Theodoro 
+Frankfurt 
+Gazikumukh 
+Garhwal 
+Saxe-Luxemburg 
+Mantua 
+Mazovia 
+Memmingen  
+Milan 
+Miami 
+Mysore 
+Jharkhand 
+Nuremberg 
+Ojibwe 
+Odoyev 
+Poland 
+Nanbu 
+Butua 
+Serbia 
+Silesia 
+Teutonic Order 
 Wallachia
 
 
 Does not exist in 1444
 
 Aquileia (Venice)
-Bulgaria lion?gryph?
 Chernigov (Lithuania)
 Epirus (Ottomans)
 Germany
