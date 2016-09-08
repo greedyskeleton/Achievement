@@ -17,7 +17,7 @@ Theodoro
 Frankfurt  
 Gazikumukh  
 Garhwal  
-Saxe-Luxemburg  
+Saxe-Lauenburg  
 Mantua  
 Mazovia  
 Memmingen  
@@ -37,7 +37,7 @@ Teutonic Order
 Wallachia 
 
 
-Does not exist in 1444
+Does not exist in 1444 (no need to take their starting provinces unless they existed at some point of the game)
 
 Aquileia (Venice)  
 Chernigov (Lithuania)  
