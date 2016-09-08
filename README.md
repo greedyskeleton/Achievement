@@ -8,59 +8,32 @@ HARD MODE Don't start in Europe
 Existing in 1444
 
 Aachen
-
 Albania
-
 Anhalt
-
 Brandenburg
-
 East Frisia
-
 Clanricarde
-
 Theodoro
-
 Frankfurt
-
 Gazikumukh
-
 Garhwal
-
 Saxe-Luxemburg
-
 Mantua
-
 Mazovia
-
 Memmingen
-
 Milan
-
 Miami
-
 Mysore
-
 Jharkhand
-
 Nuremberg
-
 Ojibwe
-
 Odoyev
-
 Poland
-
 Nanbu
-
 Butua
-
 Serbia
-
 Silesia
-
 Teutonic Order
-
 Wallachia
 
 
