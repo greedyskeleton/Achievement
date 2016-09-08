@@ -61,7 +61,7 @@ Smolensk
 Tirol (Austria)  
 Transylvania  
 
-WTF is this?
+WTF is this? (Not sure if it's a bird or not)
 
 Assam  
 Champasak it has wings  
