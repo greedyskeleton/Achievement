@@ -39,32 +39,32 @@ Wallachia
 
 Does not exist in 1444
 
-Aquileia (Venice)
-Chernigov (Lithuania)
-Epirus (Ottomans)
-Germany
-Holy Roman Empire
-Italy
-Louisiana
-Livonia (Order)
-Marwar (Mewar)
-Mexico
-Modena (Ferrara)
-Morea (Byzantium)
-Montenegro (Serbia)
-Commonwealth
-Prussia
-Roman Empire
-Russia
-Sicily (Aragon)
-Smolensk
-Tirol (Austria)
-Transylvania
+Aquileia (Venice)  
+Chernigov (Lithuania)  
+Epirus (Ottomans)  
+Germany  
+Holy Roman Empire  
+Italy  
+Louisiana  
+Livonia (Order)  
+Marwar (Mewar)  
+Mexico  
+Modena (Ferrara)  
+Morea (Byzantium)  
+Montenegro (Serbia)  
+Commonwealth  
+Prussia  
+Roman Empire  
+Russia  
+Sicily (Aragon)  
+Smolensk  
+Tirol (Austria)  
+Transylvania  
 
 WTF is this?
 
-Assam
-Champasak it has wings
-Ikeda moth?
-Hadoti humanoidal bird
-Nogai dog with wings
+Assam  
+Champasak it has wings  
+Ikeda moth?  
+Hadoti humanoidal bird  
+Nogai dog with wings  
