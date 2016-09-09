@@ -1,7 +1,7 @@
 # Achievement
 BIRD IN THE HAND IS WORTH TWENTY EIGHT IN THE BUSH
 
-As one of the following countries eliminate and own starting provinces of every other country with a bird on their flag without "birding"
+As one of the following countries eliminate and own or have a subject own starting provinces of every other country with a bird on their flag without "birding"
 
 HARD MODE Don't start in Europe
 
