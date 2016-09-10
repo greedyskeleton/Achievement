@@ -5,7 +5,7 @@ As one of the following countries eliminate and own or have a subject own starti
 
 HARD MODE Don't start in Europe
 
-Existing in 1444
+Exists in 1444
 
 Aachen  
 Albania  
@@ -37,7 +37,7 @@ Teutonic Order
 Wallachia 
 
 
-Does not exist in 1444 (no need to take their starting provinces unless they existed at some point of the game)
+Does not exist in 1444 (no need to take their capital provinces unless they existed at some point of the game)
 
 Aquileia (Venice)  
 Chernigov (Lithuania)  
